@@ -1,18 +1,33 @@
 
-## Load Data
 
-iris <- iris 
+## load data
 
 
-## IRIS Summary 
-dim(iris)
+
+
+## data summary 
 str(iris)
 
 
-## Iris Plots 
+# plot
 plot(iris)
 
+test
 
-## IRIS Regression
+## Student 1 
 
-lm(iris$Petal.Length ~ iris$Petal.Width, data = iris)
+
+## Student 2 
+
+
+
+
+
+
+
+
+
+
+
+
+
