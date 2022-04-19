@@ -9,4 +9,5 @@ dim(iris)
 str(iris)
 
 
-## Student 2 
+## Iris Plots 
+plot(iris)
