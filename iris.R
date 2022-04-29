@@ -1,5 +1,10 @@
 
+<<<<<<< HEAD
 import data
+=======
+###load data 
+
+>>>>>>> 2df3eb17e1e093f90892afe296730150543e76fd
 
 ## load data
 
