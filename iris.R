@@ -2,6 +2,7 @@
 
 #Student 1 
 iris <- iris 
+dim(iris)
 
 
 
