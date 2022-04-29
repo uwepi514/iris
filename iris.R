@@ -7,3 +7,4 @@ dim(iris)
 
 
 #Student 2 
+library(rio)
